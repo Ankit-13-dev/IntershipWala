@@ -1,0 +1,48 @@
+{
+  "name": "ankit atri",
+  "college": "Jawaharlal Nehru Government Engineering College Sundernagar",
+  "degree": "B.Tech(Computer Science and Engineering (Ai & Ml))",
+  "semester": "7th",
+  "duration": "4-6 month",
+  "start": "January 2027",
+  "skills": "Python, computer vision and machine learning pipelines",
+  "github": "https://github.com/Ankit-13-dev",
+  "linkedin": "",
+  "phone": "8219676716",
+  "resume_name": "cv.pdf",
+  "experience": [
+    {
+      "role": "Research Intern",
+      "org": "CAIR- IIT Mandi",
+      "duration": "June- July 2026",
+      "tags": "Machine Learning, Computer Vision, Video Classification, Feature Engineering, Optical Character Recognition (OCR), Image Processing, Video Analytics, Logistic Regression, Optical Flow, OpenCV, Python, Explainable AI",
+      "blurb": "Developed a lightweight Machine Learning-based Educational Video Classification system during my research internship at the Centre for Artificial Intelligence and Robotics (CAIR), IIT Mandi, under the guidance of Dr. Praful Hambarde. Designed and implemented a feature extraction pipeline integrating nine visual features, including OCR-based text density, frame similarity, optical flow-based motion analysis, educational graphics detection, face dominance, and scene transition analysis. Extracted and normalized visual features into structured feature vectors and trained a Logistic Regression model with feature standardization to classify videos as educational or non-educational. Developed a modular and explainable pre-filtering system to eliminate irrelevant videos before computationally expensive downstream multimodal processing."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Spoof-Detection",
+      "url": "https://github.com/Ankit-13-dev/Spoof-Detection",
+      "tags": "spoof, anti-spoofing, liveness, face, biometrics, security, computer vision, vision, depth estimation, depth, object detection, detection, clip, deep learning, machine learning, ai, ml",
+      "blurb": "built Spoof-Detection, a real-time computer vision pipeline for face spoof detection that combines object detection, monocular depth estimation, depth-variance analysis and CLIP"
+    },
+    {
+      "title": "Dataset-Collector",
+      "url": "https://github.com/Ankit-13-dev/Dataset-Collector",
+      "tags": "dataset, data, face, tracking, reid, re-identification, labeling, annotation, video, pipeline, computer vision, vision, detection, deep learning, machine learning, ai, ml",
+      "blurb": "built Dataset-Collector, a multi-stage pipeline that performs face detection, tracking, re-identification and labelling to generate datasets automatically from video"
+    },
+    {
+      "title": "ScureLocalAI",
+      "url": "https://github.com/Ankit-13-dev/ScureLocalAI",
+      "tags": "rag, llm, nlp, language model, retrieval, vector, embeddings, search, knowledge, generative, ollama, privacy, local, ai, machine learning, ml",
+      "blurb": "built ScureLocalAI, an offline, local-first knowledge base with local vector search and an Ollama-powered RAG chat interface over uploaded documents"
+    },
+    {
+      "title": "Restaurant-management-system",
+      "url": "https://github.com/Ankit-13-dev/Restaurant-management-system",
+      "tags": "database, databases, sql, mysql, dbms, data management, information systems",
+      "blurb": "built a MySQL-based management system for multiple restaurant chains"
+    }
+  ]
+}
